@@ -1,5 +1,5 @@
 '''
-Crie um código para ler e calcular a média salarial inserida e apontar os salários menores do que a média
+Crie um programa em Python que recebe como entrada quatro salários, o programa deve calcular a média salarial e exibir quais salários estão abaixo da média
 '''
 
 salario = [0,0,0,0]
